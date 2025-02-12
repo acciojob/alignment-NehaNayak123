@@ -19,7 +19,10 @@
 	height:30px;
 	/* line-height:8000px; */
 }
-.third{
-	display:flex;
-	justify-content:space-evenly;
+.thirdimg{
+	align-items:center
+	/* display:flex; */
+	/* width:auto; */
+	/* flex-direction:column; */
+	/* justify-content:space-evenly; */
 }

@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.middle{
+	width:100%;
+}
+.left{
+	text-align:left;
+	/* width:30%; */
+}
+.center{
+	text-align:center;
+	/* width:40%; */
+}
+.right{
+	/* width:30%; */
+	text-align:right;
+}
+.two tr{
+	/* width:18%; */
+	height:30px;
+	/* line-height:8000px; */
+}
+.third{
+	display:flex;
+	justify-content:space-evenly;
+}

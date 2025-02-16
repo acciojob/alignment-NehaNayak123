@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-table{
+#table-1{
+	 border:1px solid rgb(0, 0, 0);
+}
+.middle{
 	border:1px solid rgb(0, 0, 0);
-	td{
+	td,tr{
 		border:1px solid rgb(0, 0, 0);
 	}
 }
